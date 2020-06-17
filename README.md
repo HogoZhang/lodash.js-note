@@ -6,4 +6,4 @@
 
 ## 目录
 * [1. 数组]()
-    * [1.1 _.chunk-等长拆分数组](https://github.com/HogoZhang/lodash.js-note/Array/chunk.md)
+    * [1.1 _.chunk-等长拆分数组](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/chunk.md)
