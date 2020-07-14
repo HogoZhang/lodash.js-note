@@ -8,3 +8,4 @@
 * [1. 数组]()
     * [1.1 _.chunk-拆分数组(等长)](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/chunk.md)
     * [1.2 _.difference-取不同值](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/difference.md)
+    * [1.3 _.drop-从头切除元素](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/drop.md)
