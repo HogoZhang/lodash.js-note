@@ -10,3 +10,4 @@
     * [1.2 _.difference-取不同值](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/difference.md)
     * [1.3 _.drop-从头切除元素](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/drop.md)
     * [1.4 _.findIndex-查找下标](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/findIndex.md)
+    * [1.5 _.intersection-取相同值](https://github.com/HogoZhang/lodash.js-note/blob/master/Array/intersection.md)

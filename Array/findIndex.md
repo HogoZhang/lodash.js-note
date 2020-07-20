@@ -24,7 +24,6 @@
 
 ### 源码理解
 ```javascript
-
     function findIndex(array, predicate) {
       return (array && array.length)
         ? baseFindIndex(array, getIteratee(predicate, 3))
